@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from "vue";
-const name = ref("张三");
+const name = ref("里斯");
 </script>
 
 <template>
